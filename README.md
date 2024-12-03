@@ -7,6 +7,8 @@ A Hexagonal Architecture is a software architecture that aims to create loosely 
 - This project implements [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 - This project was developed on top of the principles of [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design).
 - This project use [CQRS pattern](https://en.wikipedia.org/wiki/Command_Query_Responsibility_Segregation)
+- This project includes a [unit test sample](./src/feature-name/domain/services/adaptors/feature-name.service.spec.ts)
+- This project includes a [e2e test sample](./test/feature-name.e2e-spec.ts)
 
 ## Installation
 
