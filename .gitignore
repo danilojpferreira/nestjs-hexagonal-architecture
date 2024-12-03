@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build Outputs
+dist
+**/*.tsbuildinfo
+
+# OS
+.DS_Store
+
+# Tests
+lcov.info
+coverage/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
