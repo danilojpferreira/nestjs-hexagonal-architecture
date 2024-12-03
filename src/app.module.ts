@@ -1,4 +1,8 @@
 import { Module } from '@nestjs/common';
 
-@Module({})
+import { FeatureNameModule } from './feature-name/feature-name.module';
+
+@Module({
+  imports: [FeatureNameModule],
+})
 export class AppModule {}
