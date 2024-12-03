@@ -1,0 +1,3 @@
+pnpm lint
+pnpm docs:api-meta
+pnpm test
