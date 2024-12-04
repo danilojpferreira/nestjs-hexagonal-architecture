@@ -13,7 +13,11 @@ A Hexagonal Architecture is a software architecture that aims to create loosely 
 ## Installation
 
 - Clone the repository
-- Run `pnpm install` [How to use pnpm](https://pnpm.io/)
+- you can use tilt.dev to run the application just running `tilt up`. [How to use tilt.dev](https://tilt.dev/)
+
+Alternatively, you can run everything manual:
+
+- Run `pnpm install` [Not using pnpm yet?](https://pnpm.io/)
 - Run `pnpm build`
 - Run `pnpm start`
 

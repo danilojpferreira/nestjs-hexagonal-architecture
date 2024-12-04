@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build Outputs
+dist
+**/*.tsbuildinfo
+
+# OS
+.DS_Store
+
+# Tests
+lcov.info
+coverage/
+test/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Husky and Commitlint
+.husky/
+commitlint.config.js
+
+#Readme
+*.md
